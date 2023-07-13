@@ -1,1 +1,1 @@
-from np_json import *
+from .np_json import *
